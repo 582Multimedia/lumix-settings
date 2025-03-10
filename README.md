@@ -52,3 +52,8 @@ settings for lumix cameras
 - f3.5 (wide open) aperture
 - 640 iso
 - 5500k (daylight white balance)
+
+| dial / setting | format | aspect ratio | resolution | framerate | sensor coverage | iso | white balance |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| M | jpg+raw | 3:2 | 24mp | --- | full | auto | auto |
+
