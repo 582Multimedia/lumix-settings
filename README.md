@@ -2,6 +2,8 @@
 
 Settings for lumix s5ii and s5iix cameras
 
+## LUTs (color profiles)
+
 All of the movie mode uses v-log color profile, to get accurate colours, you will need to download one or more of these LUTs (Look-up Table):
 
 - [VLog_to_V709_forV35_EN](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/index.html)
@@ -12,7 +14,7 @@ If you want to unlock the maximum quality, you can use an external recorder to r
 - [V-Log/V-Gamut conversion of RAW output data](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/s1h_raw_lut/index.html)
 - (only possible with s5iix) ***not likely for students, but Bruce and I probably need it***
 
-## Quick overview
+## Camera dial settings
 
 Click on the different modes to see more details
 
@@ -75,3 +77,7 @@ Click on the different modes to see more details
 - f3.5 (wide open) aperture
 - 640 iso
 - 5500k (daylight white balance)
+
+## Camera custom settings
+
+In the `camera-settings` folder, you can find the folder to drag and drop on your SD card to restore camera settings to custom defaults. Each camera has its own settings and can only be loaded for each specific camera model.
