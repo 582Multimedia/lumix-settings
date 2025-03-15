@@ -1,6 +1,6 @@
 # Lumix cameras settings
 
-[!QR Code](images/qr-code.jpg)
+![QR Code](images/qr-code.jpg)
 
 Settings for lumix s5ii and s5iix cameras
 
