@@ -4,6 +4,22 @@
 
 Settings for lumix s5ii and s5iix cameras
 
+## Format SD Card
+
+> [!NOTE]
+> Before formatting, please note
+>
+> - Since data cannot be recovered after formatting, make sure to back up necessary data in advance.
+> - Format the card before recording a picture with this unit.
+> - Do not turn the camera off during formatting.
+
+1. Press [ MENU ].
+2. Select [ SETUP ![Settings Icon](/docs/images/Setupicon.png) ].
+3. Select [ Card/File ![SD Card Icon](/docs/images/insertsdcardS1.png) ].
+4. Select [ Card Format ].
+5. Select [ Slot1 or Slot 2 ].
+6. Select [ YES ].
+
 ## LUTs (color profiles)
 
 All of the movie mode uses v-log color profile, to get accurate colours, you will need to download one or more of these LUTs (Look-up Table):
@@ -11,10 +27,8 @@ All of the movie mode uses v-log color profile, to get accurate colours, you wil
 - [VLog_to_V709_forV35_EN](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/index.html)
 - (applies to both s5ii and s5iix cameras) ***you will need this***
 
-If you want to unlock the maximum quality, you can use an external recorder to record [Apple ProRes RAW](https://support.apple.com/en-ca/102124), in which case, you will need this:
-
-- [V-Log/V-Gamut conversion of RAW output data](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/s1h_raw_lut/index.html)
-- (only possible with s5iix) ***not likely for students, but Bruce and I probably need it***
+> [!NOTE]
+> For using Atomos Ninja, check the [Advanced LUTs](#advanced-luts) section.
 
 ## Camera dial settings
 
@@ -85,3 +99,10 @@ Click on the different modes to see more details
 ## Camera custom settings
 
 In the `camera-settings` folder, you can find the folder to drag and drop on your SD card to restore camera settings to custom defaults. Each camera has its own settings and can only be loaded for each specific camera model.
+
+## Advanced LUTs
+
+If you want to unlock the maximum quality, you can use an external recorder to record [Apple ProRes RAW](https://support.apple.com/en-ca/102124), in which case, you will need this:
+
+- [V-Log/V-Gamut conversion of RAW output data](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/s1h_raw_lut/index.html)
+- (only possible with s5iix) ***not likely for students, but Bruce and I probably need it***
