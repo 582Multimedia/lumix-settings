@@ -14,8 +14,8 @@ Settings for lumix s5ii and s5iix cameras
 > - Do not turn the camera off during formatting.
 
 1. Press [ MENU ].
-2. Select [ SETUP ![Settings Icon](/docs/images/Setupicon.png =250x250) ].
-3. Select [ Card/File ![SD Card Icon](/docs/images/insertsdcardS1.png =250x250) ].
+2. Select [ SETUP ![Settings Icon](/docs/images/Setupicon.png) ].
+3. Select [ Card/File ![SD Card Icon](/docs/images/insertsdcardS1.png) ].
 4. Select [ Card Format ].
 5. Select [ Slot1 or Slot 2 ].
 6. Select [ YES ].
