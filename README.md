@@ -67,6 +67,7 @@ Click on the different modes to see more details
 - AWBc (auto white balance - cooler)
 
 Youtube: [How to use Slow and Quick Motion](https://www.youtube.com/watch?v=mZHvR_kL-PY&ab_channel=LUMIX)
+
 Operating Instructions: [Slow & Quick Video](https://eww.pavc.panasonic.co.jp/dscoi/DC-S5M2/html/DC-S5M2_DVQP2839_eng/0088.html)
 
 ### C1 (full frame 16:9)
@@ -106,4 +107,4 @@ In the `camera-settings` folder, you can find the folder to drag and drop on you
 If you want to unlock the maximum quality, you can use an external recorder to record [Apple ProRes RAW](https://support.apple.com/en-ca/102124), in which case, you will need this:
 
 - [V-Log/V-Gamut conversion of RAW output data](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/s1h_raw_lut/index.html)
-- (only possible with s5iix) ***not likely for students, but Bruce and I probably need it***
+- (only possible with s5iix with Atomos Ninja V)
