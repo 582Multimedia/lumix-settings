@@ -66,7 +66,8 @@ Click on the different modes to see more details
 - auto iso
 - AWBc (auto white balance - cooler)
 
-[How to use Slow and Quick Motion | LUMIX Academy | S5](https://www.youtube.com/watch?v=mZHvR_kL-PY&ab_channel=LUMIX)
+Youtube: [How to use Slow and Quick Motion](https://www.youtube.com/watch?v=mZHvR_kL-PY&ab_channel=LUMIX)
+Operating Instructions: [Slow & Quick Video](https://eww.pavc.panasonic.co.jp/dscoi/DC-S5M2/html/DC-S5M2_DVQP2839_eng/0088.html)
 
 ### C1 (full frame 16:9)
 
