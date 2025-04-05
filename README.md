@@ -6,7 +6,7 @@ Settings for lumix s5ii and s5iix cameras
 
 ## Format SD Card
 
-> [!NOTE]
+> [!CAUTION]
 > Before formatting, please note
 >
 > - Since data cannot be recovered after formatting, make sure to back up necessary data in advance.
@@ -27,7 +27,7 @@ All of the movie mode uses v-log color profile, to get accurate colours, you wil
 - [VLog_to_V709_forV35_EN](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/index.html)
 - (applies to both s5ii and s5iix cameras) ***you will need this***
 
-> [!NOTE]
+> [!TIP]
 > For using Atomos Ninja, check the [Advanced LUTs](#advanced-luts) section.
 
 ## Camera dial settings
